@@ -1,4 +1,5 @@
 import React, { Component } from "react"
+import { Outlet } from "react-router-dom"
 import Navbar from "./Navbar"
 
 class App extends Component{
@@ -6,6 +7,7 @@ class App extends Component{
     return(
       <section>
         <Navbar />
+        <Outlet />
       </section>
     )
   }

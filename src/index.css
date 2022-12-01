@@ -396,6 +396,13 @@ ul li ul {
 
 ol li ol {
   margin-bottom: 0;
+  font-weight: bold;
+  font-family: cursive,cursive;
+}
+
+p{
+  font-weight: bold;
+  font-family: cursive,cursive;
 }
 
 span{
@@ -403,6 +410,8 @@ span{
 	font-weight: bold;
   white-space: nowrap;
 }
+
+
 
 #NavTitle{
   font-size: xx-large;
@@ -414,8 +423,8 @@ h3,
 h4,
 h5 {
   margin: 1.5rem 0;
-  font-weight: 600;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-family: cursive,cursive;
   line-height: 1.2;
   color: #404040;
 }

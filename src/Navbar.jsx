@@ -8,8 +8,9 @@ class Navbar extends Component{
       <nav>
         <span id="NavTitle">Train Forum</span>
 
-        <span>Home</span>
-        <span>About</span>
+        <span><Link to="/">Home</Link></span>
+        <span><Link to="About">About</Link></span>
+        <span><Link to="Rules">Rules</Link></span>
       </nav>
     )
   }
