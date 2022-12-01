@@ -404,6 +404,10 @@ span{
   white-space: nowrap;
 }
 
+#NavTitle{
+  font-size: xx-large;
+}
+
 h1,
 h2,
 h3,
