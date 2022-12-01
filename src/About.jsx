@@ -10,7 +10,7 @@ class About extends Component{
         <p>
           <strong>
             <em>
-              
+              Welcome to the Transportation Forum. We talk only about delays on trains and busses. This website is being moderated by staff. Read the rules so you don't break them.
             </em>
           </strong>
         </p>
