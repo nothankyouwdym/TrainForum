@@ -8,7 +8,7 @@ class Rules extends Component{
         <h1 style={{textAlign: "center"}}>Rules</h1>
 
         <ol>
-          <li>All disscussion here is about trains and busses specifacally which trains are delayed and inforation about arrivas.</li>
+          <li>All disscussion here is about trains and busses specifacally which trains are delayed and inforation about arrives.</li>
           <li>If you talk about anything else you will not have access to the information.</li>
           <li>Do not lie about information, because if we find out you will not have access to this information..</li>
         </ol>
