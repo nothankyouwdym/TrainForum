@@ -8,7 +8,6 @@ class App extends Component{
       <section>
         <Navbar />
         <Outlet />
-        <button>Change Light Mode</button>
       </section>
     )
   }
